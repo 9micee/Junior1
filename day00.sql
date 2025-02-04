@@ -1,1 +1,1 @@
-select * from person where person.address ='Kazan
+select * from person where person.address ='Kazan'
